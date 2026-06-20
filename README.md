@@ -1,86 +1,147 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Software+Engineer+in+Progress;Java+Backend+Developer;Machine+Learning+Enthusiast;350%2B+LeetCode+Problems+Solved" />
-</p><h1 align="center">Hi 👋, I'm Rahul Das</h1>
-<h3 align="center">Aspiring Software Engineer | Java Backend Developer | AI/ML Enthusiast</h3>
+<h1 align="center">Rahul Das</h1>
 
 <p align="center">
-🎓 Chemical Engineering @ SVNIT Surat <br>
-💻 Passionate about Backend Development, DSA & Machine Learning
+  Backend Developer • Java • Spring Boot • Machine Learning
+</p>
+
+<p align="center">
+  SVNIT Surat • LeetCode Contestant • Open Source Contributor
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/rxhuldas/">LeetCode</a> •
+  <a href="https://github.com/rahuldas1810-byte">GitHub</a> •
+  <a href="https://linkedin.com/in/rahul-das-73206b325">LinkedIn</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 B.Tech Chemical Engineering @ SVNIT Surat
-- 💻 Aspiring Software Engineer
-- 🌱 Learning Spring Boot, System Design & Machine Learning
-- 🏆 350+ LeetCode Problems Solved
-- 📈 LeetCode Rating: 1560+
-- 🎯 Goal: SDE Internship & Software Engineering Roles
+- B.Tech in Chemical Engineering @ SVNIT Surat
+- Backend Developer focused on Java, Spring Boot and REST APIs
+- Strong interest in Software Engineering, System Design and Machine Learning
+- Open Source Contributor and Competitive Programmer
 
 ---
 
-## 🛠️ Tech Stack
+## Competitive Programming
+
+🏆 450+ DSA Problems Solved
+
+🏆 LeetCode Rating: 1560+
+
+🏆 Global Rank 791 / 34,267 (Top 2.3%) — LeetCode Weekly Contest 504
+
+🏆 JEE Main 2024: Top 2.54%
+
+---
+
+## Tech Stack
 
 ### Languages
-Java • Python • SQL
+```text
+Java • Python • SQL • TypeScript
+```
 
 ### Backend
-Spring Boot • REST APIs
+```text
+Spring Boot • Hibernate • JPA • JWT • REST APIs
+```
 
-### Databases
+### Frontend
+```text
+Next.js • React • Tailwind CSS
+```
+
+### Database
+```text
 MySQL • MongoDB
+```
 
 ### Tools
-Git • GitHub • VS Code • Postman
-
-### AI/ML
-Scikit-Learn • Pandas • NumPy
-
----
-
-## 📂 Featured Projects
-
-### 🎬 Movie Recommendation System
-- Built recommendation engine using Machine Learning
-- Content-based filtering approach
-- Personalized movie suggestions
-
-### 🌐 Bloom Branding CMS
-- Full-stack CMS platform
-- Next.js + MongoDB + Cloudinary
-- Dynamic content management dashboard
-
-### 🎓 Education Management System
-- Role-based authentication
-- Student & Faculty management
-- CRUD operations with database integration
+```text
+Git • GitHub • Postman • IntelliJ IDEA • VS Code • Cloudinary • Vercel
+```
 
 ---
 
-## 🏆 Coding Profiles
+## Featured Projects
 
-- LeetCode: https://leetcode.com/u/rxhuldas/
-- GitHub: https://github.com/rahuldas1810-byte
-- LinkedIn: https://linkedin.com/in/rahul-das-73206b325
+### Bloom Branding CMS
 
----
+Scalable full-stack CMS platform built using Next.js, TypeScript, MongoDB and Cloudinary.
 
-## 🎯 2026 Goals
-
-- Reach 1700+ LeetCode Rating
-- Build 5 Production-Level Projects
-- Secure SDE Internship
-- Master Spring Boot & Backend Development
+- Dynamic content management
+- Custom admin dashboard
+- Google Reviews API integration
+- Gemini AI chatbot integration
+- Cloud media management
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
-## 📊 GitHub Stats
+### Education Institute Management System
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahuldas1810-byte&show_icons=true)
+Spring Boot backend application for managing students, staff, classes and academic records.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldas1810-byte&layout=compact)
+- Spring Boot
+- JPA & Hibernate
+- MySQL
+- Layered Architecture
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rahuldas1810-byte)
+---
+
+### JWT Authentication System
+
+Secure authentication platform using Spring Security and JWT.
+
+- Role-based access control
+- Token authentication
+- Swagger API documentation
+- SQL database integration
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahuldas1810-byte&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldas1810-byte&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rahuldas1810-byte&hide_border=true" />
+</p>
+
+---
+
+## LeetCode Statistics
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/rxhuldas?theme=dark&font=Karma" />
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/rxhuldas?ext=contest" />
+</p>
+
+---
+
+## Achievements
+
+- Top 5 Performer — Google Winter of Code (GWOC)
+- Finalist — ACM Summer Challenge 2025
+- Winner — Pitching Mania 2025
+- 450+ DSA Problems Solved Across Platforms
+
+---
+
+## Connect
+
+📧 dasrahul1805@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/rahul-das-73206b325
+
+💻 GitHub: https://github.com/rahuldas1810-byte
+
+🏆 LeetCode: https://leetcode.com/u/rxhuldas/
