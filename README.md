@@ -1,31 +1,77 @@
-# Hi, I'm Rahul Das 👋
+<h1 align="center">Hi 👋, I'm Rahul Das</h1>
+<h3 align="center">Aspiring Software Engineer | Java Backend Developer | AI/ML Enthusiast</h3>
 
-🎓 Chemical Engineering @ SVNIT Surat
+<p align="center">
+🎓 Chemical Engineering @ SVNIT Surat <br>
+💻 Passionate about Backend Development, DSA & Machine Learning
+</p>
 
-💻 Aspiring Software Engineer
+---
 
-🚀 Java | Spring Boot | Python | Machine Learning
+## 🚀 About Me
 
-## 📈 Coding Journey
-- 350+ LeetCode Problems Solved
-- LeetCode Rating: 1560+
-- Best Contest Rank: 791/34,267
+- 🎓 B.Tech Chemical Engineering @ SVNIT Surat
+- 💻 Aspiring Software Engineer
+- 🌱 Learning Spring Boot, System Design & Machine Learning
+- 🏆 350+ LeetCode Problems Solved
+- 📈 LeetCode Rating: 1560+
+- 🎯 Goal: SDE Internship & Software Engineering Roles
+
+---
 
 ## 🛠️ Tech Stack
-- Java
-- Python
-- Spring Boot
-- MySQL
-- MongoDB
-- Git & GitHub
 
-## 🚀 Featured Projects
-### Movie Recommendation System
-Machine Learning based recommendation engine.
+### Languages
+Java • Python • SQL
 
-### Bloom Branding CMS
-Full-stack CMS using Next.js, MongoDB and Cloudinary.
+### Backend
+Spring Boot • REST APIs
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/rahul-das-73206b325
+### Databases
+MySQL • MongoDB
+
+### Tools
+Git • GitHub • VS Code • Postman
+
+### AI/ML
+Scikit-Learn • Pandas • NumPy
+
+---
+
+## 📂 Featured Projects
+
+### 🎬 Movie Recommendation System
+- Built recommendation engine using Machine Learning
+- Content-based filtering approach
+- Personalized movie suggestions
+
+### 🌐 Bloom Branding CMS
+- Full-stack CMS platform
+- Next.js + MongoDB + Cloudinary
+- Dynamic content management dashboard
+
+### 🎓 Education Management System
+- Role-based authentication
+- Student & Faculty management
+- CRUD operations with database integration
+
+---
+
+## 🏆 Coding Profiles
+
 - LeetCode: https://leetcode.com/u/rxhuldas/
+- GitHub: https://github.com/rahuldas1810-byte
+- LinkedIn: https://linkedin.com/in/rahul-das-73206b325
+
+---
+
+## 🎯 2026 Goals
+
+- Reach 1700+ LeetCode Rating
+- Build 5 Production-Level Projects
+- Secure SDE Internship
+- Master Spring Boot & Backend Development
+
+---
+
+⭐ If you like my projects, consider giving them a star!
