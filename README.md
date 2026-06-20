@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rahul Das</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Software+Engineer+in+Progress;Java+Backend+Developer;Machine+Learning+Enthusiast;350%2B+LeetCode+Problems+Solved" />
+</p><h1 align="center">Hi 👋, I'm Rahul Das</h1>
 <h3 align="center">Aspiring Software Engineer | Java Backend Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
