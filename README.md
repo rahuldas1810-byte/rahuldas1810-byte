@@ -75,3 +75,10 @@ Scikit-Learn • Pandas • NumPy
 ---
 
 ⭐ If you like my projects, consider giving them a star!
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahuldas1810-byte&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldas1810-byte&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rahuldas1810-byte)
