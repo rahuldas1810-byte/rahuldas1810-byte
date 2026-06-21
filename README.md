@@ -79,18 +79,13 @@ Achievements:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/rxhuldas?theme=dark&font=Nunito&ext=contest"/>
+<img width="60%" src="https://leetcard.jacoblin.cool/rxhuldas?theme=dark&font=Nunito&ext=contest"/>
+
+<br><br>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=rxhuldas&theme=dark"/>
 
 </div>
-
-### Contest Highlights
-
-- 📈 Contest Rating — Dynamic
-- 🌍 Global Ranking — Dynamic
-- 🏆 Top Percentage — Dynamic
-- ⚔️ Contest Attended — Dynamic
-- ✅ Problems Solved — Dynamic
-- 🎯 Acceptance Rate — Dynamic
 
 # GitHub Analytics
 
