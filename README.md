@@ -73,6 +73,8 @@ Achievements:
 
 ---
 
+
+
 # Coding Profiles
 
 <div align="center">
@@ -81,9 +83,13 @@ Achievements:
 <img src="https://leetcard.jacoblin.cool/rxhuldas?theme=dark&font=Nunito&ext=contest"/>
 </a>
 
-</div>
+<br><br>
 
----
+<img src="https://img.shields.io/badge/LeetCode%20Rating-1560-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Global%20Rank-791%20%2F%2034267-success?style=for-the-badge"/>
+
+</div>
 
 # GitHub Analytics
 
