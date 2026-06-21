@@ -75,19 +75,15 @@ Achievements:
 
 
 
-# Coding Profiles
+# LeetCode Statistics
 
 <div align="center">
 
-<a href="https://leetcode.com/u/rxhuldas/">
-<img src="https://leetcard.jacoblin.cool/rxhuldas?theme=dark&font=Nunito&ext=contest"/>
-</a>
+<img width="60%" src="https://leetcard.jacoblin.cool/rxhuldas?theme=dark&font=Nunito&ext=contest"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LeetCode%20Rating-1560-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Global%20Rank-791%20%2F%2034267-success?style=for-the-badge"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=rxhuldas&theme=dark"/>
 
 </div>
 
