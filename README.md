@@ -2,7 +2,7 @@
 
 # Rahul Das
 
-### Software Developer • Machine Learning Enthusiast • Competitive Programmer
+### B.Tech @ NIT Surat • Software Developer • Machine Learning Enthusiast • Competitive Programmer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Building+Scalable+Applications;450%2B+DSA+Problems+Solved" />
 
